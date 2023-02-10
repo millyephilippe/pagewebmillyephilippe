@@ -1,0 +1,211 @@
+
+
+a {
+	font-family: sans-serif;
+	font-size: 12px;
+	color: orangered;
+	text-align: center;
+	text-decoration: none;
+}
+
+a:hover {
+    text-transform: uppercase;
+}
+
+#logo {
+	margin-left: 30px;
+	margin-top: 25px;
+}
+
+#header {
+	background-image: url("https://skifamily.voyagefamily.com/thumbs/800x600c/2020-10/chamrousse-basse-def-21-cguillaume-deschanel.jpg");
+	background-size: cover;
+	margin-top: 10px;
+	height: 450px;
+}
+
+
+#welcome {
+	color: black ;
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: 5px;
+	margin-left: 10px;
+	background-color: rgba(255, 255, 255, 0.4);
+	back
+}
+
+
+#btn {
+	cursor: pointer;
+	height: 45px;
+	width: 170px;
+	color: #3498db;
+	font-size: 1.5em;
+	color: white;
+	background-color: rgba(255, 60, 0, 0.7);
+	border-style: outset;
+	border-color: transparent;
+	border-radius: 50px;
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 15px;
+	margin-top: 180px;
+    }
+
+#btn:hover{
+	background-color: brown;
+
+}
+
+hr {
+	height: 2px;
+	background-color: #47a5aa;
+	border-color: transparent;
+
+}
+
+#offres {
+	color: #47a5aa;
+	font-family: sans-serif;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+#offres:hover {
+    text-transform: uppercase;
+    }
+
+
+p {
+	color: black;
+	background: initial;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+
+h3 {
+	color: black;
+	background-color: initial;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+a {text-decoration: underline;}
+
+
+.box {
+	display: flex;
+}
+
+#carre1{
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+
+#carre1:hover {
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	background-color: #47a5aa;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+
+
+#carre2 {
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+#carre2:hover {
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	background-color: #47a5aa;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+
+#carre3 {
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+
+#carre3:hover {
+	width: 350px;
+	height: 460px;
+	background-image: url(image/AZERTY.jpg);
+	background-color: #47a5aa;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 40px 4px darkgrey;
+	flex: 1 1 auto;
+}
+
+#footer {
+	background-color: #47a5aa;
+	height: 150px;
+	width: auto;
+	text-align: center;
+}
+
+#footer a {
+font-size: 30px;
+color: white;
+}
+
+#hope {
+	color: white;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+#icones{
+	padding-block: 40px;
+	font-size: 40px;
+}
+
+#icones:hover {
+}
+
+
+
+
